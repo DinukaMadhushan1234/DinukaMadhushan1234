@@ -2,14 +2,14 @@
 
 # Hi 👋 I'm Dinuka Madhushan
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=AI%2FML+Engineer+%7C+Computer+Vision+Specialist;Building+Intelligent+Solutions+with+Deep+Learning;Self-Supervised+Learning+%7C+Generative+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=AI%2FML+%7C+Computer+Vision+Enthusiast;Building+Intelligent+Solutions+with+Deep+Learning;" alt="Typing SVG" />
 
-### 🎓 Final Year @ University of Moratuwa | 🤖 AI Engineer @ Pekoe (TeaAI)
+### 🎓 Final Year @ University of Moratuwa | 🤖 Part Timer @ Pekoe (TeaAI)
 
 <p>
 <a href="https://linkedin.com/in/dinuka-madhushan"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:dinukamadhushan1234@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white"/></a>
+<a href="https://dinukamadhushan1234.github.io/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white"/></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
@@ -20,18 +20,15 @@
 
 ## 🚀 About Me
 
-Electronic and Telecommunication Engineering undergraduate specializing in **AI/ML and Computer Vision**. Currently working as an **AI Engineer Intern at Pekoe (TeaAI)**, developing cutting-edge self-supervised learning models and advanced neural network architectures for agricultural AI applications.
+Electronic and Telecommunication Engineering undergraduate specializing in **AI/ML and Computer Vision**. Currently working as an **Part Time Employee at Pekoe (TeaAI)**, developing cutting-edge self-supervised learning models and advanced neural network architectures for agricultural AI applications.
 
 - 🎓 **Education:** B.Sc. Electronic & Telecom Engineering | **GPA: 3.65/4.0**
 - 📍 **Location:** Moratuwa, Sri Lanka 🇱🇰
-- 🔬 **Current Focus:** Deep Reinforcement Learning • Computer Vision • Self-Supervised Learning • Generative AI
-- 💼 **Working on:** Domain Generalization • Transfer Learning • Synthetic Data Generation
-- 🏆 **Achievements:** Dean's List (3 semesters) • Island Rank 64 (A/L) • IEEE INSL Finalist • Oracle AI Certified
+- 🔬 **Current Focus:** Deep Reinforcement Learning • Self-Supervised Learning
+- 💼 **Worked on:** • Self-Supervised Learning • Generative AI • Computer Vision • Domain Generalization Techniques • Transfer Learning • Various DRL models 
+- 🏆 **Educational Achievements:** GPA: 3.65/4.0 (Dean's List (3 semesters)) • Island Rank 64 (A/L) •2 Competition Finals
 
 <div align="center">
-
-### 📈 Quick Stats
-**GPA: 3.65/4.0** • **Island Rank: 64** • **10+ Research Projects** • **2 Competition Finals**
 
 </div>
 
@@ -70,7 +67,7 @@ Electronic and Telecommunication Engineering undergraduate specializing in **AI/
 <br>OpenCV
 </td>
 <td align="center" width="25%">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Altium_Designer_logo.svg" width="65" height="65" alt="Altium" />
+<img src="![Altium Logo](upload.wikimedia.org)" width="65" height="65" alt="Altium" />
 <br>Altium
 </td>
 <td align="center" width="25%">
@@ -88,7 +85,6 @@ Electronic and Telecommunication Engineering undergraduate specializing in **AI/
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 </div>
@@ -112,15 +108,6 @@ Electronic and Telecommunication Engineering undergraduate specializing in **AI/
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DinukaMadhushan1234&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=DinukaMadhushan1234&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<br>
-
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinukaMadhushan1234&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-
 <br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DinukaMadhushan1234&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Graph">
@@ -129,15 +116,15 @@ Electronic and Telecommunication Engineering undergraduate specializing in **AI/
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Focus Areas
 
 <div align="center">
 
 ```mermaid
 mindmap
   root((My Focus Areas))
-    AI Research
-      Self Supervised Learning
+    AI R&D
+      SSL Techniques
       Domain Generalization
       Transfer Learning
     Computer Vision
@@ -146,7 +133,7 @@ mindmap
       Anomaly Detection
     Deep RL
       Dueling DDQN
-      Task Offloading
+      Task Offloading Algorithm
       Optimization
     MLOps
       AWS Pipeline
@@ -201,7 +188,7 @@ mindmap
 <a href="mailto:dinukamadhushan1234@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="#">
+<a href="https://dinukamadhushan1234.github.io/">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
