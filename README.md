@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋 I'm Dinuka Madhushan
+# Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /> I'm Dinuka Madhushan
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=AI%2FML+%7C+Computer+Vision+Enthusiast;Building+Intelligent+Solutions+with+Deep+Learning;" alt="Typing SVG" />
 
@@ -67,7 +67,7 @@ Electronic and Telecommunication Engineering undergraduate specializing in **AI/
 <br>OpenCV
 </td>
 <td align="center" width="25%">
-<img src="![Altium Logo](upload.wikimedia.org)" width="65" height="65" alt="Altium" />
+<img src="https://www.svgrepo.com/show/305687/altiumdesigner.svg" width="65" height="65" alt="Altium" />
 <br>Altium
 </td>
 <td align="center" width="25%">
@@ -121,24 +121,43 @@ Electronic and Telecommunication Engineering undergraduate specializing in **AI/
 <div align="center">
 
 ```mermaid
-mindmap
-  root((My Focus Areas))
-    AI R&D
-      SSL Techniques
-      Domain Generalization
-      Transfer Learning
-    Computer Vision
-      Object Detection
-      Image Generation
-      Anomaly Detection
-    Deep RL
-      Dueling DDQN
-      Task Offloading Algorithm
-      Optimization
-    MLOps
-      AWS Pipeline
-      Model Deployment
-      GPU Optimization
+graph LR
+  %% Node Definitions
+  Root((<b>My Focus Areas</b>))
+  AI[AI R&D]
+  CV[Computer Vision]
+  DRL[Deep RL]
+  MLOps[MLOps]
+
+  %% Connections
+  Root --- AI
+  Root --- CV
+  Root --- DRL
+  Root --- MLOps
+
+  %% Sub-nodes
+  AI --- SSL(SSL Techniques)
+  AI --- DG(Domain Generalization)
+  AI --- TL(Transfer Learning)
+
+  CV --- OD(Object Detection)
+  CV --- IG(Image Generation)
+  CV --- AD(Anomaly Detection)
+
+  DRL --- DDQN(Dueling DDQN)
+  DRL --- TOA(Task Offloading)
+  DRL --- OPT(Optimization)
+
+  MLOps --- AWS(AWS Pipeline)
+  MLOps --- DEP(Model Deployment)
+  MLOps --- GPU(GPU Optimization)
+
+  %% Styling
+  style Root fill:#A9FEF7,stroke:#000,stroke-width:2px,color:#000
+  style AI fill:#f9f,stroke:#333,stroke-width:1px,color:#000
+  style CV fill:#bbf,stroke:#333,stroke-width:1px,color:#000
+  style DRL fill:#bfb,stroke:#333,stroke-width:1px,color:#000
+  style MLOps fill:#fbb,stroke:#333,stroke-width:1px,color:#000
 ```
 
 </div>
