@@ -121,7 +121,7 @@ Electronic and Telecommunication Engineering undergraduate specializing in **AI/
 <div align="center">
 
 ```mermaid
-graph LR
+graph TD
   %% Node Definitions
   Root((<b>My Focus Areas</b>))
   AI[AI R&D]
@@ -129,13 +129,13 @@ graph LR
   DRL[Deep RL]
   MLOps[MLOps]
 
-  %% Connections
+  %% Main Connections (Root to categories)
   Root --- AI
   Root --- CV
   Root --- DRL
   Root --- MLOps
 
-  %% Sub-nodes
+  %% Sub-nodes (Categories to specifics)
   AI --- SSL(SSL Techniques)
   AI --- DG(Domain Generalization)
   AI --- TL(Transfer Learning)
@@ -153,11 +153,26 @@ graph LR
   MLOps --- GPU(GPU Optimization)
 
   %% Styling
+  %% Ensure text color is black for readability on light/dark modes
   style Root fill:#A9FEF7,stroke:#000,stroke-width:2px,color:#000
   style AI fill:#f9f,stroke:#333,stroke-width:1px,color:#000
   style CV fill:#bbf,stroke:#333,stroke-width:1px,color:#000
   style DRL fill:#bfb,stroke:#333,stroke-width:1px,color:#000
   style MLOps fill:#fbb,stroke:#333,stroke-width:1px,color:#000
+  
+  %% Styling sub-nodes for better contrast
+  style SSL fill:#A9FEF7,color:#000
+  style DG fill:#A9FEF7,color:#000
+  style TL fill:#A9FEF7,color:#000
+  style OD fill:#A9FEF7,color:#000
+  style IG fill:#A9FEF7,color:#000
+  style AD fill:#A9FEF7,color:#000
+  style DDQN fill:#A9FEF7,color:#000
+  style TOA fill:#A9FEF7,color:#000
+  style OPT fill:#A9FEF7,color:#000
+  style AWS fill:#A9FEF7,color:#000
+  style DEP fill:#A9FEF7,color:#000
+  style GPU fill:#A9FEF7,color:#000
 ```
 
 </div>
