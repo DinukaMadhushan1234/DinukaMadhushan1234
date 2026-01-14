@@ -22,11 +22,10 @@
 
 Electronic and Telecommunication Engineering undergraduate specializing in **AI/ML and Computer Vision**. Currently working as an **Part Time Employee at Pekoe (TeaAI)**, developing cutting-edge self-supervised learning models and advanced neural network architectures for agricultural AI applications.
 
-- 🎓 **Education:** B.Sc. Electronic & Telecom Engineering | **GPA: 3.65/4.0**
+- 🎓 **Education:** B.Sc. Electronic & Telecom Engineering
 - 📍 **Location:** Moratuwa, Sri Lanka 🇱🇰
 - 🔬 **Current Focus:** Deep Reinforcement Learning • Self-Supervised Learning
 - 💼 **Worked on:** • Self-Supervised Learning • Generative AI • Computer Vision • Domain Generalization Techniques • Transfer Learning • Various DRL models 
-- 🏆 **Educational Achievements:** GPA: 3.65/4.0 (Dean's List (3 semesters)) • Island Rank 64 (A/L) •2 Competition Finals
 
 <div align="center">
 
