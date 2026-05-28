@@ -7,7 +7,7 @@
 ### 🎓 Final Year @ University of Moratuwa | 🤖 Part Timer @ Pekoe (TeaAI)
 
 <p>
-<a href="https://linkedin.com/in/dinuka-madhushan"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/dinuka-madhushan-771521268/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:dinukamadhushan1234@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://dinukamadhushan1234.github.io/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white"/></a>
 </p>
