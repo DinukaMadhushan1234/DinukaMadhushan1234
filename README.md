@@ -25,7 +25,7 @@ Electronic and Telecommunication Engineering undergraduate specializing in **AI/
 - 🎓 **Education:** B.Sc. Electronic & Telecom Engineering
 - 📍 **Location:** Moratuwa, Sri Lanka 🇱🇰
 - 🔬 **Current Focus:** Deep Reinforcement Learning • Self-Supervised Learning
-- 💼 **Worked on:** • Self-Supervised Learning • Generative AI • Computer Vision • Domain Generalization Techniques • Transfer Learning • Various DRL models 
+- 💼 **Worked on:** • Self-Supervised Learning • Generative AI • Computer Vision • Domain Generalization Techniques • Transfer Learning • Various DRL models in IoV Networks
 
 <div align="center">
 
@@ -103,18 +103,6 @@ Electronic and Telecommunication Engineering undergraduate specializing in **AI/
 
 </div>
 
----
-
-## 📊 GitHub Analytics
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DinukaMadhushan1234&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Graph">
-
-</div>
-
----
-
 ## 🎯 Focus Areas
 
 <div align="center">
@@ -176,40 +164,6 @@ graph TD
 
 </div>
 
----
-
-## 💼 Experience & Achievements
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🏢 Professional Experience
-- **AI Engineer Intern** @ Pekoe (TeaAI)
-  - Self-supervised learning models
-  - Agricultural computer vision
-  - Price forecasting algorithms
-  - PyTorch & CUDA optimization
-
-</td>
-<td width="50%">
-
-### 🏆 Key Achievements
-- 🥇 Dean's List (3 semesters)
-- 🥈 IEEE INSL Finalist 2023
-- 🥉 SLIOT Semi-Finalist 2023
-- 📜 Oracle AI Certified Professional
-- 📜 DeepLearning.AI ML Specialization
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
 
 ## 🌐 Let's Connect!
 
